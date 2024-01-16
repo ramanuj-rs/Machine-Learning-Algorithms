@@ -55,5 +55,5 @@ Feel free to explore and learn from the implementations provided in each folder.
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/MachineLearningAlgorithms.git
+   git clone https://github.com/your-username/Machine-Learning-Algorithms.git
    cd MachineLearningAlgorithms
