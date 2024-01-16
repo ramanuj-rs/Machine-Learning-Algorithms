@@ -4,17 +4,19 @@ Welcome to the Machine Learning Algorithms repository! This curated collection c
 
 ## 📚 Algorithms Included
 
-- [/1. Linear Regression:](1-Linear-Regression/) Master the basics of predictive modeling with the Linear Regression algorithm. This folder provides code implementation and insights for understanding linear regression.
+1. **[/Basics](/Basics)**:
 
-- [**2. Ridge Lasso Regression:**](2-Ridge-Lasso-Regression/) Explore regularization techniques in regression analysis with Ridge and Lasso Regression. Understand the impact of regularization on model performance.
+**[1. Linear Regression](/1-Linear-Regression)**: Master the basics of predictive modeling with the Linear Regression algorithm. This folder provides code implementation and insights for understanding linear regression.
 
-- [**3. Logistics Regression:**](3-Logistics-Regression/) Delve into classification tasks using Logistics Regression. Learn how to model binary outcomes and make informed predictions.
+**[2. Ridge Lasso Regression](/2-Ridge-Lasso-Regression)**: Explore regularization techniques in regression analysis with Ridge and Lasso Regression. Understand the impact of regularization on model performance.
 
-- [**4. Naive Bayes:**](4-Naive-Bayes/) Understand the simplicity and effectiveness of the Naive Bayes algorithm in classification problems. Uncover the principles behind probabilistic classification.
+**[3. Logistics Regression](/3-Logistics-Regression)**: Delve into classification tasks using Logistics Regression. Learn how to model binary outcomes and make informed predictions.
 
-- [**5. K Nearest Neighbours:**](5-K-Nearest-Neighbours/) Explore the intuitive K Nearest Neighbours algorithm for classification and regression tasks. Gain insights into how proximity influences predictions.
+**[4. Naive Bayes](/4-Naive-Bayes)**: Understand the simplicity and effectiveness of the Naive Bayes algorithm in classification problems. Uncover the principles behind probabilistic classification.
 
-- [**6. Decision Tree:**](6-Decision-Tree/) Uncover the power of Decision Trees in both classification and regression scenarios. Learn how to visualize and interpret decision-making processes.
+**[5. K Nearest Neighbours](/5-K-Nearest-Neighbours)**: Explore the intuitive K Nearest Neighbours algorithm for classification and regression tasks. Gain insights into how proximity influences predictions.
+
+**[6. Decision Tree:**](6-Decision-Tree/) Uncover the power of Decision Trees in both classification and regression scenarios. Learn how to visualize and interpret decision-making processes.
 
 - [**7. Random Forest:**](7-Random-Forest/) Experience the ensemble learning approach with Random Forest. Discover how combining multiple decision trees enhances predictive performance.
 
