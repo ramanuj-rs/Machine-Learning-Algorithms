@@ -4,7 +4,7 @@ Welcome to the Machine Learning Algorithms repository! This curated collection c
 
 ## 📚 Algorithms Included
 
-- **[1. Linear Regression](/1-Linear-Regression/):**
+- **[1-Linear Regression](/1-Linear-Regression/):**
   Master the basics of predictive modeling with the Linear Regression algorithm. This folder provides code implementation and insights for understanding linear regression.
 
 - **[2. Ridge Lasso Regression](/2-Ridge-Lasso-Regression/):**
